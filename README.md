@@ -1,13 +1,13 @@
-# cez-banner-kadov
+# cez-banner-markvartice
 
-Statický banner ČEZ Distribuce (plánované odstávky) pro obec Kadov - určený pro vložení do iframe modulu na webu obce.
+Statický banner ČEZ Distribuce (plánované odstávky) pro obec Markvartice - určený pro vložení do iframe modulu na webu obce.
 
 ## Použití
 
 Vlož do iframe modulu URL:
 
 ```
-https://dominikdigiday.github.io/cez-banner-kadov/
+https://dominikdigiday.github.io/cez-banner-markvartice/
 ```
 
 Doporučené rozměry iframe: `728 × 90 px` (banner se centruje automaticky).
