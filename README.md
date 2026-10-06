@@ -14,4 +14,4 @@ Doporučené rozměry iframe: `728 × 90 px` (banner se centruje automaticky).
 
 ## Zdroj banneru
 
-Banner pochází ze služby `ovm.bezstavy.cz` (ČEZ Distribuce – plánované odstávky).
+Banner pochází ze služby `ppo.cezdistribuce.cz/ovm` (do 9/2026 `ovm.bezstavy.cz`) (ČEZ Distribuce – plánované odstávky).
